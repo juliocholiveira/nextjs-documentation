@@ -1,5 +1,5 @@
 import { createContext } from "react";
 
-const Usuario = createContext({ id: 0, nome: "Júlio" });
+const Usuario = createContext([]);
 
 export default Usuario;
